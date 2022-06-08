@@ -5,3 +5,11 @@ Breast cancer is a disease in which cells in the breast grow out of control in  
 dataset :  Breast Cancer Histopathological Image Classification (BreakHis) is composed of 9,109 microscopic images of breast tumor tissue collected from 82 patients using different magnifying factors (40X, 100X, 200X, and 400X). To date, it contains 2,480 benign and 5,429 malignant samples (700X460 pixels, 3-channel RGB, 8-bit depth in each channel, PNG format). This database has been built in collaboration with the P&D Laboratory – Pathological Anatomy and Cytopathology, Parana, Brazil
 
 https://www.kaggle.com/datasets/ambarish/breakhis
+
+
+
+
+<img width="599" alt="download" src="https://user-images.githubusercontent.com/72338267/172602349-b2c54e0e-79fd-4c4e-8822-83b22f693b9f.png">
+
+
+<img width="452" alt="download (1)" src="https://user-images.githubusercontent.com/72338267/172602402-6f3f68e8-cf36-4e71-b1a5-49c4bd9a487a.png">
